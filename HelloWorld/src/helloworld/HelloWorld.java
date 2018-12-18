@@ -12,10 +12,12 @@ package helloworld;
 public class HelloWorld {
 
     /**
+     * Prints "Hello World" and the worlds response to console
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         System.out.println("Hello World!");
+        System.out.println("World: Hello!");
     }
     
 }
